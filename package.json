@@ -1,0 +1,26 @@
+{
+  "name": "stay-remix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "elementary ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitaIfabric/stay-remix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digitaIfabric/stay-remix/issues"
+  },
+  "homepage": "https://github.com/digitaIfabric/stay-remix#readme",
+  "dependencies": {
+    "@elemaudio/core-lite": "^0.11.5",
+    "@tonaljs/tonal": "^4.6.5",
+    "chokidar": "^3.5.3"
+  }
+}
